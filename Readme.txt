@@ -1,5 +1,4 @@
 """
-Readme file
 
 This project is a web application for calculating duty on imports and exports.
 
